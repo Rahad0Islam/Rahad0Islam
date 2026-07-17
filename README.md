@@ -1,10 +1,12 @@
 <div align="center">
 
+  <!-- Round profile avatar — top-right corner of banner -->
+  <p align="right">
+    <img src="rahad.png" width="140" height="140" alt="Rahad Islam" style="border-radius: 50%;"/>
+  </p>
+
   <!-- Banner header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A855F7&height=220&section=header&text=Rahad%20Islam&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20SUST%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=18&descColor=e9d5ff&descAlignY=58" width="100%" alt="banner"/>
-
-  <!-- Round profile avatar — sits just below the banner, centered, overlapping it -->
-  <img src="rahad.png" width="140" height="140" alt="Rahad Islam" style="border-radius: 50%; margin-top: -90px; border: 4px solid #0d1117; background-color: #0d1117;"/>
 
   <br/>
 
@@ -12,8 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=Full-Stack%20Developer;Software%20Engineer;Competitive%20Programmer;AI%2FML%20Explorer" alt="typing"/>
 
   <br/><br/>
-
-
 
   <!-- Contact pills -->
   <a href="https://rahad-islam.vercel.app" target="_blank">
