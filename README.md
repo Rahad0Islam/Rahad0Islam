@@ -1,16 +1,10 @@
 <div align="center">
 
-  <!-- Banner with round avatar in the top-right corner -->
-  <table width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td width="100%" align="center" valign="top">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A855F7&height=220&section=header&text=Rahad%20Islam&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20SUST%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=18&descColor=e9d5ff&descAlignY=58" width="100%" alt="banner"/>
-      </td>
-      <td align="right" valign="top" width="160" style="padding: 16px 24px 0 0;">
-        <img src="rahad.png" width="120" height="120" alt="Rahad Islam" style="border-radius: 50%;"/>
-      </td>
-    </tr>
-  </table>
+  <!-- Banner header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A855F7&height=220&section=header&text=Rahad%20Islam&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20SUST%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=18&descColor=e9d5ff&descAlignY=58" width="100%" alt="banner"/>
+
+  <!-- Round profile avatar — sits just below the banner, centered, overlapping it -->
+  <img src="rahad.png" width="140" height="140" alt="Rahad Islam" style="border-radius: 50%; margin-top: -90px; border: 4px solid #0d1117; background-color: #0d1117;"/>
 
   <br/>
 
