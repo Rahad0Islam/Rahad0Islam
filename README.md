@@ -3,6 +3,7 @@
   <!-- Banner header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A855F7&height=220&section=header&text=Rahad%20Islam&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20SUST%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=18&descColor=e9d5ff&descAlignY=58" width="100%" alt="banner"/>
 
+
   <!-- Round profile avatar — sits centered, overlapping the bottom of the banner -->
   <p align="center">
     <img src="rahad.png" width="140" height="140" alt="Rahad Islam" style="border-radius: 50%; margin-top: -80px; border: 5px solid #0d1117;"/>
