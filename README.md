@@ -1,13 +1,18 @@
 <div align="center">
 
-  <!-- Banner with avatar sitting on top, same purple background, no border ring -->
-  <div style="position: relative; width: 100%;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A855F7&height=220&section=header&text=Rahad%20Islam&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20SUST%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=18&descColor=e9d5ff&descAlignY=58" width="100%" alt="banner"/>
-    <img src="https://avatars.githubusercontent.com/Rahad0Islam?s=400&v=4" width="150" height="150" alt="Rahad Islam"
-         style="position: absolute; left: 50%; bottom: -75px; transform: translateX(-50%); border-radius: 50%;"/>
-  </div>
+  <!-- Banner with round avatar in the top-right corner -->
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td width="100%" align="center" valign="top">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A855F7&height=220&section=header&text=Rahad%20Islam&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20SUST%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=18&descColor=e9d5ff&descAlignY=58" width="100%" alt="banner"/>
+      </td>
+      <td align="right" valign="top" width="160" style="padding: 16px 24px 0 0;">
+        <img src="https://avatars.githubusercontent.com/Rahad0Islam?s=400&v=4" width="120" height="120" alt="Rahad Islam" style="border-radius: 50%;"/>
+      </td>
+    </tr>
+  </table>
 
-  <br/><br/><br/>
+  <br/>
 
   <!-- Typing headline — mirrors portfolio.js `roles` order -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=Full-Stack%20Developer;Software%20Engineer;Competitive%20Programmer;AI%2FML%20Explorer" alt="typing"/>
