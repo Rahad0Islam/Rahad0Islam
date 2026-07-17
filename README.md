@@ -1,12 +1,21 @@
 <div align="center">
-  
-  <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A855F7&height=220&section=header&text=Rahad%20Islam&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20SUST%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=18&descColor=e9d5ff&descAlignY=58" width="100%" alt="banner"/>
+
+  <!-- Banner + Avatar row -->
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A855F7&height=220&section=header&text=Rahad%20Islam&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20SUST%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=18&descColor=e9d5ff&descAlignY=58" width="100%" alt="banner"/>
+      </td>
+      <td align="center" valign="middle" width="180" style="padding:0 24px;">
+        <img src="https://avatars.githubusercontent.com/Rahad0Islam?s=400&v=4" width="140" height="140" alt="Rahad Islam" style="border-radius:50%; border: 4px solid #7C3AED; box-shadow: 0 0 24px rgba(124,58,237,0.6);"/>
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
-  <!-- Typing headline -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+resilient+web+platforms;1%2C500%2B+problems+solved+on+Codeforces+%26+LeetCode;Top+20+Finalist+%40+BUET+CSE+Fest+2026;Hackathon+builder+%7C+MERN+%7C+Spring+Boot+%7C+Kubernetes" alt="typing"/>
+  <!-- Typing headline — mirrors portfolio.js `roles` order -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=Full-Stack%20Developer;Software%20Engineer;Competitive%20Programmer;AI%2FML%20Explorer" alt="typing"/>
 
   <br/><br/>
 
@@ -38,10 +47,6 @@
 <br/>
 
 <!-- Profile + About row -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/Rahad0Islam?s=400&v=4" width="160" height="160" alt="Rahad Islam" style="border-radius:50%; border: 4px solid #7C3AED;"/>
-</div>
-
 <div align="center">
 
 ### 👋 Hi, I'm Rahad Islam
