@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner header with profile photo baked into the top-right corner -->
-  <img src="./banner.svg" width="100%" alt="Rahad Islam banner"/>
+  <img src="./banner.png" width="100%" alt="Rahad Islam banner"/>
   <br/>
 
   <!-- Typing headline -->
