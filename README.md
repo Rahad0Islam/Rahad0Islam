@@ -3,7 +3,12 @@
   <!-- Banner header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A855F7&height=220&section=header&text=Rahad%20Islam&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20SUST%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=18&descColor=e9d5ff&descAlignY=58" width="100%" alt="banner"/>
 
-  <!-- Typing headline — mirrors portfolio.js `roles` order -->
+  <!-- Profile picture -->
+  <br/>
+  <img src="./rahad.png" width="150" height="150" style="border-radius:50%;" alt="Rahad Islam"/>
+  <br/><br/>
+
+  <!-- Typing headline -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=Full-Stack%20Developer;Software%20Engineer;Competitive%20Programmer;AI%2FML%20Explorer" alt="typing"/>
 
   <br/><br/>
@@ -15,6 +20,7 @@
   <a href="mailto:vairahad99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-vairahad99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <img src="https://img.shields.io/badge/Location-Sylhet%2C%20Bangladesh-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <a href="https://github.com/Rahad0Islam" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@Rahad0Islam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -35,55 +41,32 @@
 
 <br/>
 
-<!-- Profile + About row -->
 <div align="center">
 
 ### 👋 Hi, I'm Rahad Islam
+### Aspiring Software Engineer · Full-Stack Developer
 
 </div>
 
-I'm a **Computer Science & Engineering** undergraduate at **Shahjalal University of Science and Technology (SUST)** with a CGPA of **3.81 / 4.00**.
+## 👨‍💻 About Me
 
-I build modern **full-stack web platforms** with React, Next.js, Tailwind CSS, Node.js, Spring Boot, PostgreSQL, and MongoDB — and ship them through **Docker, Kubernetes, and GitHub Actions** pipelines. As a competitive programmer I've solved **1,500+ problems** across Codeforces, LeetCode, AtCoder, and CodeChef, ranking **Pupil @ Codeforces** and **2★ @ CodeChef**.
-
-I'm a **Top 20 finalist at BUET CSE Fest 2026** (DevOps & Microservices track) and an **onsite builder at DNA Hack for Health 2026**, where my team shipped **MaCare**, a maternal & child health platform now used in field pilots across rural Bangladesh.
-
-Currently exploring **AI/ML** and integrating intelligent features into scalable full-stack applications.
+CSE undergraduate at **SUST** (CGPA 3.81/4.00) who builds full-stack platforms with **React/Next.js, Node.js, Spring Boot, and PostgreSQL/MongoDB**, deployed through **Docker & Kubernetes**. Top-20 finalist at BUET CSE Fest 2026 and hackathon builder of **MaCare**, a maternal-health platform piloted in rural Bangladesh. Also an active competitive programmer with **1,500+ problems solved**.
 
 <br/>
 
-<!-- About card + Quick info -->
 <table align="center">
   <tr>
     <td width="55%" valign="top">
 
-### 👨‍💻 About Me
+### 🔭 Currently
 
-```yaml
-name      : Rahad Islam
-role      : Aspiring Software Engineer | Full-Stack Developer
-location  : Sylhet, Bangladesh
-cgpa      : 3.81 / 4.00 (SUST — CSE)
-problems  : 1,500+ (CF · LC · AtCoder · CC)
-email     : vairahad99@gmail.com
-portfolio : https://rahad-islam.vercel.app
-
-focus:
-  - Full-Stack Web Engineering     (MERN · Next.js · Spring Boot)
-  - DevOps & Microservices          (Docker · K8s · GitHub Actions)
-  - AI / ML Integration             (HuggingFace · OpenAI API)
-  - Competitive Programming         (graphs · DP · math)
-```
+- 🤖 Exploring **AI/ML** and integrating it into full-stack apps
+- 🏗️ Designing **microservices** with Kubernetes & circuit breakers
+- 🩺 Scaling **MaCare** for rural maternal-health programs
+- 📚 Deepening **system design** for new-grad interviews
 
   </td>
   <td width="45%" valign="top">
-
-### 🔭 Current Focus
-
-- 🤖 Building intelligent features with **HuggingFace** & **OpenAI**
-- 🏗️ Designing **microservices** with Kubernetes and Circuit Breakers
-- 🩺 Scaling **MaCare** for rural maternal-health programs
-- 📚 Deepening **system design** for new-grad interviews
 
 ### 🌱 Open To
 
@@ -133,7 +116,7 @@ focus:
     <tr>
       <td>⭐ <b>CGPA 3.81 / 4.00</b></td>
       <td>Shahjalal University of Science and Technology (SUST)</td>
-      <td>Dean's List · CSE under graduation</td>
+      <td>Dean's List · CSE undergraduate</td>
       <td align="center"><code>2023 — Present</code></td>
     </tr>
   </tbody>
@@ -145,7 +128,6 @@ focus:
 
 ## 🚀 Featured Projects
 
-<!-- EVoteHub -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -192,7 +174,6 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 - 🇧🇩 Bengali health-education content
 - 👩‍⚕️ Three role-based dashboards: **Mother · Doctor · Midwife**
 
-
 **Stack**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -220,33 +201,23 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 <table align="center">
   <tr>
     <td align="center" width="220"><b>🧠 Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=ts,js,java,python,cpp,c&theme=dark" alt="Languages"/>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,java,python,cpp,c&theme=dark" alt="Languages"/></td>
   </tr>
   <tr>
     <td align="center" width="220"><b>🎨 Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,sass,figma&theme=dark" alt="Frontend"/>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,sass,figma&theme=dark" alt="Frontend"/></td>
   </tr>
   <tr>
     <td align="center" width="220"><b>⚙️ Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,prisma,graphql&theme=dark" alt="Backend"/>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,prisma,graphql&theme=dark" alt="Backend"/></td>
   </tr>
   <tr>
     <td align="center" width="220"><b>🗄️ Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite&theme=dark" alt="Databases"/>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite&theme=dark" alt="Databases"/></td>
   </tr>
   <tr>
     <td align="center" width="220"><b>🚀 DevOps / Cloud</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,githubactions,vercel,aws,grafana,prometheus&theme=dark" alt="DevOps"/>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,githubactions,vercel,aws,grafana,prometheus&theme=dark" alt="DevOps"/></td>
   </tr>
   <tr>
     <td align="center" width="220"><b>🤖 AI / ML</b></td>
@@ -260,9 +231,7 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
   </tr>
   <tr>
     <td align="center" width="220"><b>🧰 Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,stackoverflow&theme=dark" alt="Tools"/>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,stackoverflow&theme=dark" alt="Tools"/></td>
   </tr>
 </table>
 
@@ -312,6 +281,22 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahad0Islam/Rahad0Islam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahad0Islam/Rahad0Islam/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rahad0Islam/Rahad0Islam/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -333,7 +318,8 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 
 <br/>
 
----
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:6D28D9&height=150&section=footer" width="100%" alt="footer wave"/>
 
 <div align="center">
   <sub>
