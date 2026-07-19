@@ -238,8 +238,6 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahad0Islam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahad0Islam&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=html,css" height="170" alt="Top Languages"/>
   <img src="https://streak-stats.demolab.com/?user=Rahad0Islam&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 </div>
 
