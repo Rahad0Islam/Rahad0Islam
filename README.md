@@ -1,12 +1,8 @@
 <div align="center">
 
-  <!-- Banner header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A855F7&height=220&section=header&text=Rahad%20Islam&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20SUST%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=18&descColor=e9d5ff&descAlignY=58" width="100%" alt="banner"/>
-
-  <!-- Profile picture -->
+  <!-- Banner header with profile photo baked into the top-right corner -->
+  <img src="./banner.svg" width="100%" alt="Rahad Islam banner"/>
   <br/>
-  <img src="./rahad.png" width="150" height="150" style="border-radius:50%;" alt="Rahad Islam"/>
-  <br/><br/>
 
   <!-- Typing headline -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=Full-Stack%20Developer;Software%20Engineer;Competitive%20Programmer;AI%2FML%20Explorer" alt="typing"/>
