@@ -16,7 +16,6 @@
   <a href="mailto:vairahad99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-vairahad99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Sylhet%2C%20Bangladesh-22C55E?style=for-the-badge" alt="Location"/>
   <a href="https://github.com/Rahad0Islam" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@Rahad0Islam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
