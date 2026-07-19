@@ -141,15 +141,8 @@ A **digital voting platform with online campaigning** — secure registration, b
 
 **Stack**
 
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://badgen.net/badge/Express/4B5563)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![React](https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,socketio,jwt)
+![Cloudinary](https://badgen.net/badge/Cloudinary/3448C5)
 
 🔗 **Live:** [evotehub.vercel.app](https://evotehub.vercel.app) · 💻 **Repo:** [Rahad0Islam/E-voteHuv-final](https://github.com/Rahad0Islam/E-voteHuv-final)
 
@@ -171,15 +164,8 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 
 **Stack**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://badgen.net/badge/Express/4B5563)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-0F9D58?style=flat-square&logo=gmail&logoColor=white)
+![React](https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,socketio,jwt)
+![Nodemailer](https://badgen.net/badge/Nodemailer/0F9D58)
 
 🔗 **Live:** [front-end-amber-mu.vercel.app](https://front-end-amber-mu.vercel.app) · 💻 **Repo:** [Rahad0Islam/MaCare-main](https://github.com/Rahad0Islam/MaCare-main)
 
